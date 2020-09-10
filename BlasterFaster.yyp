@@ -24,6 +24,7 @@
     {"id":{"name":"s_score","path":"sprites/s_score/s_score.yy",},"order":9,},
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":2,},
     {"id":{"name":"s_button_strip2","path":"sprites/s_button_strip2/s_button_strip2.yy",},"order":1,},
+    {"id":{"name":"obj_ship_parent","path":"objects/obj_ship_parent/obj_ship_parent.yy",},"order":4,},
     {"id":{"name":"a_enemy_laser","path":"sounds/a_enemy_laser/a_enemy_laser.yy",},"order":0,},
     {"id":{"name":"s_explosion_center","path":"sprites/s_explosion_center/s_explosion_center.yy",},"order":5,},
     {"id":{"name":"a_laser","path":"sounds/a_laser/a_laser.yy",},"order":3,},
