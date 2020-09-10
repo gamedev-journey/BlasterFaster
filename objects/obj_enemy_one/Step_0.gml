@@ -1,0 +1,1 @@
+var _player_ship = instance_find(obj_player_ship, 0);
