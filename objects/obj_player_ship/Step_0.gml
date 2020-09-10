@@ -23,5 +23,5 @@ else
 
 if(_fire_laser)
 {
-	create_laser()
+	create_right_laser()
 }

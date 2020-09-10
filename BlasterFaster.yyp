@@ -12,7 +12,7 @@
     {"id":{"name":"s_enemy_one","path":"sprites/s_enemy_one/s_enemy_one.yy",},"order":3,},
     {"id":{"name":"s_stars_close","path":"sprites/s_stars_close/s_stars_close.yy",},"order":11,},
     {"id":{"name":"s_stars_far","path":"sprites/s_stars_far/s_stars_far.yy",},"order":12,},
-    {"id":{"name":"create_laser","path":"scripts/create_laser/create_laser.yy",},"order":13,},
+    {"id":{"name":"create_right_laser","path":"scripts/create_right_laser/create_right_laser.yy",},"order":1,},
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":10,},
     {"id":{"name":"s_laser","path":"sprites/s_laser/s_laser.yy",},"order":7,},
     {"id":{"name":"a_explode","path":"sounds/a_explode/a_explode.yy",},"order":1,},
