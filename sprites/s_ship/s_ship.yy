@@ -28,11 +28,15 @@
     {"compositeImage":{"FrameId":{"name":"b939a16e-1728-47d2-bb58-b437c4c3c27c","path":"sprites/s_ship/s_ship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"b939a16e-1728-47d2-bb58-b437c4c3c27c","path":"sprites/s_ship/s_ship.yy",},"LayerId":{"name":"5843a230-9ef9-4377-8b68-a367e27c85ed","path":"sprites/s_ship/s_ship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"resourceVersion":"1.0","name":"b939a16e-1728-47d2-bb58-b437c4c3c27c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eb2273ee-b03d-4f84-9c34-88dd640caaa1","path":"sprites/s_ship/s_ship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eb2273ee-b03d-4f84-9c34-88dd640caaa1","path":"sprites/s_ship/s_ship.yy",},"LayerId":{"name":"5843a230-9ef9-4377-8b68-a367e27c85ed","path":"sprites/s_ship/s_ship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"resourceVersion":"1.0","name":"eb2273ee-b03d-4f84-9c34-88dd640caaa1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c740c927-d1f4-4b34-8700-b54471b2057e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b939a16e-1728-47d2-bb58-b437c4c3c27c","path":"sprites/s_ship/s_ship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1fd805c9-9afe-46d6-bab2-9c883f883b99","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eb2273ee-b03d-4f84-9c34-88dd640caaa1","path":"sprites/s_ship/s_ship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "name": "s_ship",
@@ -43,7 +47,7 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 2.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "visibleRange": null,
