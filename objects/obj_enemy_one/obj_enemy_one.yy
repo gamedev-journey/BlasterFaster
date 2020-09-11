@@ -27,7 +27,6 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_enemy_one","path":"objects/obj_enemy_one/obj_enemy_one.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_enemy_one","path":"objects/obj_enemy_one/obj_enemy_one.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player_ship","path":"objects/obj_player_ship/obj_player_ship.yy",},"parent":{"name":"obj_enemy_one","path":"objects/obj_enemy_one/obj_enemy_one.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemy_one","path":"objects/obj_enemy_one/obj_enemy_one.yy",},"parent":{"name":"obj_enemy_one","path":"objects/obj_enemy_one/obj_enemy_one.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

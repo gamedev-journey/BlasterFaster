@@ -21,6 +21,7 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_ship_parent","path":"objects/obj_ship_parent/obj_ship_parent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_ship_parent","path":"objects/obj_ship_parent/obj_ship_parent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"obj_ship_parent","path":"objects/obj_ship_parent/obj_ship_parent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ship_parent","path":"objects/obj_ship_parent/obj_ship_parent.yy",},"parent":{"name":"obj_ship_parent","path":"objects/obj_ship_parent/obj_ship_parent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
