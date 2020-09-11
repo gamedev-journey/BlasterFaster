@@ -3,4 +3,5 @@
 function fire_lasers(){
 	create_left_laser();
 	create_right_laser();
+	audio_play_sound(a_laser, 3, false);
 }

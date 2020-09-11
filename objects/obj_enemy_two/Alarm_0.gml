@@ -11,6 +11,7 @@ if(_distance <= attack_range)
 	_laser.speed = 2;
 	_laser.image_angle = _direction;
 	_laser.direction = _direction;
+	audio_play_sound(a_enemy_laser, 3, false);
 }
 
 alarm[0] = fire_rate;
