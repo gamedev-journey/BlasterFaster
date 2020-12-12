@@ -14,6 +14,7 @@
     {"id":{"name":"obj_enemy_spawner","path":"objects/obj_enemy_spawner/obj_enemy_spawner.yy",},"order":10,},
     {"id":{"name":"obj_enemy_two","path":"objects/obj_enemy_two/obj_enemy_two.yy",},"order":7,},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"order":11,},
+    {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},"order":12,},
     {"id":{"name":"s_enemy_laser","path":"sprites/s_enemy_laser/s_enemy_laser.yy",},"order":2,},
     {"id":{"name":"s_enemy_one","path":"sprites/s_enemy_one/s_enemy_one.yy",},"order":3,},
     {"id":{"name":"obj_explosion_chunk","path":"objects/obj_explosion_chunk/obj_explosion_chunk.yy",},"order":6,},
