@@ -23,6 +23,7 @@
     {"id":{"name":"s_stars_close","path":"sprites/s_stars_close/s_stars_close.yy",},"order":11,},
     {"id":{"name":"s_stars_far","path":"sprites/s_stars_far/s_stars_far.yy",},"order":12,},
     {"id":{"name":"start_button","path":"scripts/start_button/start_button.yy",},"order":9,},
+    {"id":{"name":"obj_screenshake","path":"objects/obj_screenshake/obj_screenshake.yy",},"order":13,},
     {"id":{"name":"create_right_laser","path":"scripts/create_right_laser/create_right_laser.yy",},"order":1,},
     {"id":{"name":"hit_enemy","path":"scripts/hit_enemy/hit_enemy.yy",},"order":7,},
     {"id":{"name":"create_laser_effect","path":"scripts/create_laser_effect/create_laser_effect.yy",},"order":4,},
